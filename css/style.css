@@ -1,6 +1,7 @@
-#body
-{ font-family:'lato';sean-serif;
-background: -color:#40440;
+body
+{
+  font-family:'lato';sean-serif;
+  background-color:#404040;
 }
 
 #container
@@ -35,7 +36,7 @@ background: -color:#40440;
   padding: 20px;
   width: 640px;
   text-align: left;
-
+  color: white;
 
 }
 #ad
