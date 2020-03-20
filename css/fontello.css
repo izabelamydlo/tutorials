@@ -64,17 +64,17 @@
 .icon-mail-1:before { content: '\e806'; } /* '' */
 .icon-twitter:before { content: '\f099';font-size: 76px;margin-top: 35px; } /* '' */
 .icon-facebook:before { content: '\f09a';font-size: 76px;margin-top: 35px;} /* '' */
-.icon-pinterest-circled:before { content: '\f0d2'; 76px;margin-top: 35px;margin-top: 35px;} /* '' */
+.icon-pinterest-circled:before { content: '\f0d2'; font-size: 76px;margin-top: 35px;margin-top: 35px;} /* '' */
 .icon-gplus:before { content: '\f0d5';font-size:76px;margin-top: 35px;margin-top: 35px; } /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-youtube-squared:before { content: '\f166'; } /* '' */
 .icon-youtube:before { content: '\f167'; } /* '' */
 .icon-youtube-play:before { content: '\f16a'; } /* '' */
 .icon-pagelines:before { content: '\f18c'; } /* '' */
-.icon-google:before { content: '\f1a0';font-size: 76px;margin-top: 35px;margin-top: 35px; /* '' */
+.icon-google:before { content: '\f1a0';font-size: 76px;margin-top: 35px;margin-top: 35px;} /* '' */
 .icon-brush:before { content: '\f1fc'; } /* '' */
-.icon-facebook-official:before { content: '\f230';76px } /* '' */
-.icon-pinterest:before { content: '\f231';font-size: 76px;margin-top: 35px; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
+.icon-pinterest:before { content: '\f231'; font-size: 76px;margin-top: 35px; } /* '' */
 .icon-shopping-bag:before { content: '\f290'; ;} /* '' */
 .icon-user-circle:before { content: '\f2bd'; } /* '' */
 .icon-user-circle-o:before { content: '\f2be'; } /* '' */
