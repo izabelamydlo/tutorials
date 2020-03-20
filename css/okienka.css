@@ -93,7 +93,7 @@ text-align:center;
   line-height: 150%;
   font-size: 21px;
   padding: 30px;
-  line-height: 150%;
+
 }
 
 .tile5
@@ -102,7 +102,9 @@ text-align:center;
   width: 420px;
   height: 244px;
   background-color: #666666;
-  text-align: justify;
+  text-align: center;
+  line-height: 160%;
+  font-size: 25px;
   padding: 30px;
 }
 
@@ -159,3 +161,21 @@ text-align:center;
 {
   background-color: #2084c2;
 }
+
+a.tilelink
+{
+color: #ffffff;
+text-decoration: none;
+display: block;
+width: 230px;
+height: 142px;
+}
+a.tilelink5
+{
+color: #ffffff;
+text-decoration: none;
+display: block;
+width: 230px;
+height: 142px;
+}
+
