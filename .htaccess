@@ -1,0 +1,12 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule izabela-mydlo index.html
+RewriteRule kim-jestem kimjestem.html
+RewriteRule oferta-tworzenie-ceramika-malarstwo cooferuje.html
+RewriteRule edukacja edukacja.html
+RewriteRule kontakt-artysta-ceramik kontakt.html
